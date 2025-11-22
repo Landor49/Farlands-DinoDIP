@@ -212,10 +212,6 @@
                         "chancetodrop": 0.9
                     },
                     {
-                        "dino": "/AstraeosCreatures/Seahorse/Seahorse_Character_BP_C",
-                        "chancetodrop": 0.9
-                    },
-                    {
                         "dino": "/Game/ASA/Dinos/Megaraptor/ValMegaraptor_Character_BP.ValMegaraptor_Character_BP_C",
                         "chancetodrop": 0.9
                     }
@@ -274,14 +270,6 @@
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Direbear/Direbear_Character_BP.Direbear_Character_BP_C",
-                        "chancetodrop": 0.7
-                    },
-                    {
-                        "dino": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP_C",
-                        "chancetodrop": 0.7
-                    },
-                    {
-                        "dino": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP_C",
                         "chancetodrop": 0.7
                     },
                     {
@@ -352,18 +340,6 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Argentavis/Argent_Character_BP.Argent_Character_BP_C",
                         "chancetodrop": 0.4
-                    },
-                    {
-                        "dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/Paleo/PA_Paleo_Ledu_Character_BP.PA_Paleo_Ledu_Character_BP_C",
-                        "chancetodrop": 0.4
-                    },
-                    {
-                        "dino": "/PA_Plus_Pack_02/Dinos/Empirosaurus/PA_Empiro_Character_BP.PA_Empiro_Character_BP_C",
-                        "chancetodrop": 0.4
-                    },
-                    {
-                        "dino": "/PA_Plus_Pack_02/Dinos/Ledumahadi/PA_Ledu_Character_BP.PA_Ledu_Character_BP_C",
-                        "chancetodrop": 0.4
                     }
                 ],
                 "dipstogive": 6
@@ -379,7 +355,7 @@
                         "chancetodrop": 0.3
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
+                        "dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP_C",
                         "chancetodrop": 0.2
                     },
                     {
@@ -391,7 +367,7 @@
                         "chancetodrop": 0.25
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP_C",
+                        "dino": "/PA_EVO_Pack_02/Dinos/EVO_Mosa/EVO_Mosa_Character_BP.EVO_Mosa_Character_BP_C",
                         "chancetodrop": 0.2
                     },
                     {
@@ -423,7 +399,7 @@
                         "chancetodrop": 0.3
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
+                        "dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP_C",
                         "chancetodrop": 0.3
                     }
                 ],
