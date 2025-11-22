@@ -14,11 +14,15 @@
             {
                 "weekforoptions": [
                     {
-                        "dino": "/Skyshroud_Drakara/Dinos/Drakara/Drakara_Character_BP_Bloodfang.Drakara_Character_BP_Bloodfang",
+                        "dino": "Blueprint'/Skyshroud_Drakara/Dinos/Drakara/Drakara_Character_BP_Bloodfang.Drakara_Character_BP_Bloodfang_C",
                         "chancetodrop": 1
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Raptor/Raptor_Character_BP.Raptor_Character_BP_C",
+                        "chancetodrop": 1
+                    },
+                    {
+                        "dino": "Blueprint'/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP_C",
                         "chancetodrop": 1
                     }
                 ],
