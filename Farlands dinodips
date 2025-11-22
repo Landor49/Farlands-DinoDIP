@@ -412,7 +412,7 @@
                         "chancetodrop": 0.3
                     },
                     {
-                        "dino": "/PA_EVO_Pack_01/Dinos/EVO_Giga/EVO_Giga_Character_BP.EVO_Giga_Character_BP_C",
+                        "dino": "/Game/PrimalEarth/Dinos/Giganotosaurus/Gigant_Character_BP.Gigant_Character_BP_C",
                         "chancetodrop": 0.2
                     },
                     {
@@ -422,6 +422,10 @@
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Carcharodontosaurus/Carcha_Character_BP.Carcha_Character_BP_C",
                         "chancetodrop": 0.25
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Mosasaurus/Mosa_Character_BP.Mosa_Character_BP_C",
+                        "chancetodrop": 0.2
                     },
                     {
                         "dino": "/Game/PrimalEarth/Dinos/Plesiosaur/Plesiosaur_Character_BP.Plesiosaur_Character_BP_C",
@@ -449,6 +453,10 @@
                     },
                     {
                         "dino": "/Game/ScorchedEarth/Dinos/RockGolem/RockGolem_Character_BP.RockGolem_Character_BP_C",
+                        "chancetodrop": 0.3
+                    },
+                    {
+                        "dino": "/Game/PrimalEarth/Dinos/Rex/Rex_Character_BP.Rex_Character_BP_C",
                         "chancetodrop": 0.3
                     }
                 ],
