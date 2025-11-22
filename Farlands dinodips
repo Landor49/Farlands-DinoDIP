@@ -371,39 +371,6 @@
             {
                 "weekforoptions": [
                     {
-                        "dino": "Blueprint'/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP_C",
-                        "chancetodrop": 0.3
-                    },
-                    {
-                        "dino": "Blueprint'/PA_EVO_Pack_01/Dinos/EVO_Rex/Paleo/EVO_Paleo_Rex_Character_BP.EVO_Paleo_Rex_Character_BP_C",
-                        "chancetodrop": 0.3
-                    },
-                    {
-                        "dino": "Blueprint'/PA_EVO_Pack_01/Dinos/EVO_Rex/Tarbo/EVO_Tarbo_Character_BP.EVO_Tarbo_Character_BP_C",
-                        "chancetodrop": 0.3
-                    },
-                    {
-                        "dino": "/PA_EVO_Pack_02/Dinos/EVO_Mosa/EVO_Mosa_Character_BP.EVO_Mosa_Character_BP_C",
-                        "chancetodrop": 0.2
-                    },
-                    {
-                        "dino": "/PA_EVO_Pack_02/Dinos/EVO_Mosa/Paleo/EVO_Paleo_Mosa_Character_BP.EVO_Paleo_Mosa_Character_BP_C",
-                        "chancetodrop": 0.2
-                    },
-                    {
-                        "dino": "/AstraeosCreatures/Minotaur/Minotaur_Character_BP_C",
-                        "chancetodrop": 0.7
-                    },
-                    {
-                        "dino": "/AstraeosCreatures/Cyclops/Cyclops_Character_BP_C",
-                        "chancetodrop": 0.7
-                    }
-                ],
-                "dipstogive": 6
-            },
-            {
-                "weekforoptions": [
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Titanosaur/Titanosaur_Character_BP.Titanosaur_Character_BP_C",
                         "chancetodrop": 0.1
                     },
@@ -460,7 +427,7 @@
                         "chancetodrop": 0.3
                     }
                 ],
-                "dipstogive": 6
+                "dipstogive": 5
             }
         ]
     }
