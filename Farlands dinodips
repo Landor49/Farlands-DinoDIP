@@ -2,19 +2,13 @@
     "DinoDipConfig": {
         "alwaysallowtaming": [
             "/Game/PrimalEarth/Items/Raft/Raft_BP.Raft_BP_C",
-            "/Game/Extinction/Dinos/Mek/Mek_Character_BP.Mek_Character_BP_C",
-            "/Game/Extinction/Dinos/Enforcer/Enforcer_Character_BP.Enforcer_Character_BP_C",
-            "/Game/Packs/Steampunk/Dinos/HelperBot/HelperBot_Character_BP.HelperBot_Character_BP_C",
-            "/Game/Extinction/Dinos/Scout/Scout_Character_BP.Scout_Character_BP_C",
-            "/Game/Packs/Wasteland/Vehicles/Car/Car_Vehicle_BP.Car_Vehicle_BP_C",
-            "/Game/Packs/Steampunk/Dinos/Zeppelin/Zeppelin_Character_BP.Zeppelin_Character_BP_C",
             "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C"
         ],
         "weeksarrays": [
             {
                 "weekforoptions": [
                     {
-                        "dino": "Blueprint'/Skyshroud_Drakara/Dinos/Drakara/Drakara_Character_BP_Bloodfang.Drakara_Character_BP_Bloodfang_C",
+                        "dino": "Blueprint'/Skyshroud_Drakara/Dinos/Drakara/Drakara_Character_BP_Bloodfang.Drakara_Character_BP_Bloodfang",
                         "chancetodrop": 1
                     },
                     {
@@ -22,11 +16,11 @@
                         "chancetodrop": 1
                     },
                     {
-                        "dino": "Blueprint'/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP_C",
+                        "dino": "Blueprint'/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP",
                         "chancetodrop": 1
                     }
                 ],
-                "dipstogive": 5
+                "dipstogive": 3
             },
             {
                 "weekforoptions": [
