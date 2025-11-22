@@ -395,10 +395,6 @@
                         "chancetodrop": 0.3
                     },
                     {
-                        "dino": "Blueprint'/PA_EVO_Pack_01/Dinos/EVO_Rex/Paleo/EVO_Paleo_Rex_Character_BP.EVO_Paleo_Rex_Character_BP_C",
-                        "chancetodrop": 0.3
-                    },
-                    {
                         "dino": "/PA_EVO_Pack_01/Dinos/EVO_Rex/EVO_Rex_Character_BP.EVO_Rex_Character_BP_C",
                         "chancetodrop": 0.3
                     }
