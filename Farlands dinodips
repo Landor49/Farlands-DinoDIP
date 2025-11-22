@@ -249,10 +249,6 @@
                         "chancetodrop": 0.6
                     },
                     {
-                        "dino": "/Game/PrimalEarth/Dinos/Ptero/Ptero_Character_BP.Ptero_Character_BP_C",
-                        "chancetodrop": 0.5
-                    },
-                    {
                         "dino": "/Game/PrimalEarth/Dinos/Paraceratherium/Paracer_Character_BP.Paracer_Character_BP_C",
                         "chancetodrop": 0.7
                     },
